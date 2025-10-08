@@ -28,7 +28,7 @@ I'm a Computer Science at Sacramento State. Passionate about bridging technology
 | **Pro-Dental Care** | Full-stack Electronic Healthcare Record (EHR) application | Java, Spring Boot, Angular, MySQL | Product Owner | 2024 |
 | **LyricLink** | Social media website for users to rate and discuss their favorite artists, singles, and albums | JavaScript, HTML, CSS, Django | Team Lead | 2023 |
 | **Spotify Playlist Creator** | A Python Flask web app that uses Spotify API to create personalized playlists from selected artists. | Python, Flask, Spotify Web API | Personal Project | 2023 | 
-| **Point of Sale System** | A full-stack Point of Sale (POS) system that manages product inventory, sales transactions, and receipts to streamline operations. | Java, MySQL | Personal Project | 2022 | 
+| **Point of Sale System** | A backend Point of Sale (POS) system that manages product inventory, sales transactions, and receipts to streamline operations. | Java, MySQL | Personal Project | 2022 | 
 
 ***Note: For internship projects, code and data are partially redacted due to confidentiality agreements. Only mock data, UI shells, or non-sensitive snippets are shown to demonstrate functionality and structure.***
 
