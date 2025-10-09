@@ -21,7 +21,7 @@ I'm a Computer Science at Sacramento State. Passionate about bridging technology
 ## Featured Projects 🌟 
 | Project | Description | Tech | Role | Date
 |----------|--------------|------|------------|------|
-| **Trading Assistant Bot** | Paper trading bot that uses stock data and technical indicators to automate buy/sell alerts with a Streamlit dashboard | Python, Alpaca API, Streamlit | Personal Project | 2025 |
+| **Stock Market Alert Bot** | Paper trading bot that uses stock data and technical indicators to automate buy/sell alerts with a Streamlit dashboard | Python, Alpaca API, Streamlit | Personal Project | 2025 |
 | **LeanIX Custom Report** | Dynamic dashboard to visualize LeanIX factsheet data for enterprise decision-making | LeanIX, Node.js, GraphQL | Internship Project | 2025 |
 | **LeanIX ETL Tool** | AI-assisted ETL pipeline that extracts data from Excel, transforms it with OpenAI for insights, and loads the results into LeanIX | Python, OpenAI, LeanIX | Internship Project | 2025 |
 | **MergeBot** | In-house automation tool that merges and validates user data | Python, Selenium, Juypter Notebook | Internship Project | 2024 |
