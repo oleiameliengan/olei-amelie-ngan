@@ -35,7 +35,7 @@ I'm a Computer Science at Sacramento State. Passionate about bridging technology
 <br>
 
 ## Connect 🌐
-[LinkedIn](https://linkedin.com/in/oleingan) • [Email](mailto:oleiamelie.vngan@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/olei-amelie-ngan/) • [Email](mailto:oleiamelie.vngan@gmail.com)
 
 
 
