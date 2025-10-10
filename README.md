@@ -18,7 +18,7 @@ I'm a Computer Science at Sacramento State. Passionate about bridging technology
 
 <br>
 
-## Featured Projects 🌟 
+## Projects 🌟 
 | Project | Description | Tech | Role | Date
 |----------|--------------|------|------------|------|
 | **Stock Market Alert Bot** | Paper trading bot that uses stock data and technical indicators to automate buy/sell alerts with a Streamlit dashboard | Python, Alpaca API, Streamlit | Personal Project | 2025 |
